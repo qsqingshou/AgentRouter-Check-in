@@ -1,6 +1,7 @@
 # AgentRouter 自动签到脚本
+免费公益站：https://agentrouter.org/register?aff=wKW6
 
-每天自动登录 [AgentRouter](https://agentrouter.org/register?aff=Rm0L) 完成签到，获取每日奖励。
+每天自动登录 [AgentRouter] 完成签到，获取每日奖励。
 
 ## ⚙️ 功能特性
 
