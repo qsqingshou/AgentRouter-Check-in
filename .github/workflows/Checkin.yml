@@ -167,6 +167,7 @@ jobs:
       #    失败或未配置时自动回退到代理池 WAF 探测）
       # ==============================
       - name: Run check-in script
+        continue-on-error: true
         env:
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
